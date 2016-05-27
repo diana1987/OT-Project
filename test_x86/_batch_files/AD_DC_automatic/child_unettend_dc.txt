@@ -1,0 +1,20 @@
+[DCINSTALL]
+ParentDomainDNSName=ot.local
+UserName=Administrator
+UserDomain=ot
+Password=admin01_
+NewDomain=child
+ChildName=test
+SiteName=Default-First-Site-Name
+DomainNetBiosName=test
+ReplicaOrNewDomain=domain
+DomainLevel=3
+DatabasePath=”%systemroot%\NTDS”
+LogPath=”%systemroot%\NTDS”
+SYSVOLPath=”%systemroot%\SYSVOL”
+InstallDNS=yes
+CreateDNSDelegation=yes
+DNSDelegationUserName=Administrator
+DNSDelegationPassword= admin01_
+SafeModeAdminPassword=admin01_
+RebootOnCompletion=yes

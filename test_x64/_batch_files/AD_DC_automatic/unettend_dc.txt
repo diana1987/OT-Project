@@ -1,0 +1,14 @@
+[DCINSTALL]
+InstallDNS=yes
+NewDomain=forest
+NewDomainDNSName=ot.local
+DomainNetBiosName=ot
+SiteName=Default-First-Site-Name
+ReplicaOrNewDomain=domain
+ForestLevel=3
+DomainLevel=3
+DatabasePath="C:\Windows\NTDS"
+LogPath="C:\Windows\NTDS"
+RebootOnCompletion=yes
+SYSVOLPath="C:\Windows\SYSVOL"
+SafeModeAdminPassword=
