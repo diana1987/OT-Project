@@ -25,5 +25,5 @@
 
         PSEXEC -i -s -d CMD
 
-6. To start VMs and push all set of cred dumpers to open vms check the start_vms_test folder and start the batch file run_scenario_1.bat (this is not the last version of the file). If you want all of the automatic workflow code I used please contact me at drusu@os3.nl. Thanks!
+7. To start VMs and push all set of cred dumpers to open vms check the start_vms_test folder and start the batch file run_scenario_1.bat. Thanks!
    
