@@ -20,10 +20,12 @@
         
 
 5. To escalate to SYSTEM run : 
-6. 
+
         CMD: cd  C:\Users\user01\Downloads\PSTools
 
         PSEXEC -i -s -d CMD
 
-7. To start VMs and push all set of cred dumpers to open vms check the start_vms_test folder and start the batch file run_scenario_1.bat. Thanks!
+6. To start VMs and push all set of cred dumpers to open vms check the start_vms_test folder and start the batch file run_scenario_1.bat. 
+
+7. Thanks!
    
